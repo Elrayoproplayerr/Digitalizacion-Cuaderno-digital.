@@ -53,6 +53,13 @@ El formulario debe incluir distintos tipos de preguntas (respuesta corta, párra
 
 https://docs.google.com/forms/d/e/1FAIpQLSeX3prvm0iGCWN2xSzWcdulYG7z0DUFwo4rDOu-3fMBjuRtNw/viewform?usp=publish-editor&authuser=0
 
+# FAKE NEWS.
+La actividad consiste en analizar diferentes noticias, fotografías y vídeos virales para comprobar si son reales, falsos, manipulados o creados con inteligencia artificial. Para ello, hay que investigar su origen, contrastar la información con fuentes fiables y justificar cada veredicto.
+
+Se analizan 11 casos, como el tiburón en una calle inundada, el pingüino en una playa tropical, el barco que parece volar y el supuesto gato gigante, que en realidad es un serval africano, un felino salvaje de tamaño mediano.
+
+El objetivo es aprender a detectar bulos, reconocer manipulaciones y desarrollar un pensamiento crítico antes de compartir información en Internet.
+
 
 
 
