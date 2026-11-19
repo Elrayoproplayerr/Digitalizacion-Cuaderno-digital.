@@ -47,10 +47,11 @@ Conclusión: Las criptomonedas permiten enviar y recibir dinero sin bancos, pero
 
 # Formulario de Google y Ciudadanía digital crítica.
 
+La tarea consiste en crear un formulario de Google autocorregible con 10 preguntas sobre ciudadanía digital crítica: certificado digital, obsolescencia programada, criptomonedas y sesgos en la inteligencia artificial.
 
+El formulario debe incluir distintos tipos de preguntas (respuesta corta, párrafo, opciones, casillas, subir archivos y fecha). Por último, hay que compartirlo con dos compañeros para que lo completen.
 
-
-
+https://docs.google.com/forms/d/e/1FAIpQLSeX3prvm0iGCWN2xSzWcdulYG7z0DUFwo4rDOu-3fMBjuRtNw/viewform?usp=publish-editor&authuser=0
 
 
 
