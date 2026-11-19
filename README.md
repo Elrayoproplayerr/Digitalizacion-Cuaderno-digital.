@@ -45,10 +45,7 @@ Un robo de 1,7 millones de dólares: un ladrón fotografió la frase de recupera
 
 Conclusión: Las criptomonedas permiten enviar y recibir dinero sin bancos, pero tienen riesgos importantes, porque perder o compartir las claves privadas puede suponer perder todo el dinero para siempre.
 
-
-
-
-
+# Formulario de Google y Ciudadanía digital crítica.
 
 
 
