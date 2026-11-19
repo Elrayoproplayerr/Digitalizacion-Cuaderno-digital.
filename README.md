@@ -60,7 +60,7 @@ Se analizan 11 casos, como el tiburón en una calle inundada, el pingüino en un
 
 El objetivo es aprender a detectar bulos, reconocer manipulaciones y desarrollar un pensamiento crítico antes de compartir información en Internet.
 
-
+https://docs.google.com/document/d/1ap8a45tDEVc7bawPBInT5Z5_IG9k38W2RqUqkz5u9dA/edit?usp=classroom_web&authuser=0
 
 
 
