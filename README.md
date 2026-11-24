@@ -62,6 +62,16 @@ El objetivo es aprender a detectar bulos, reconocer manipulaciones y desarrollar
 
 https://docs.google.com/document/d/1ap8a45tDEVc7bawPBInT5Z5_IG9k38W2RqUqkz5u9dA/edit?usp=classroom_web&authuser=0
 
+# CARTEL PARA PUERTA DEL TALLER DE ROBOTICA.
+La actividad consiste en diseñar un cartel original y creativo para colocar en la puerta del Taller de Tecnología. El cartel deberá realizarse con Inkscape o Canva, cuidando que tenga buena calidad y resolución para que no se vea pixelado. Además, se deben respetar los derechos de autor y, si se utilizan imágenes o elementos descargados de Internet, indicar su procedencia, autor y licencia.
+
+    Calidad: que no se vea pixelado; usar diseños vectoriales o imágenes de mínimo 300 ppp.
+
+    Originalidad: que el diseño sea propio y creativo.
+
+    Propiedad intelectual: si utilizas elementos descargados de Internet, debes indicar en un documento su enlace, autor y licencia Creative Commons (si la tiene).
+
+
 
 
 
