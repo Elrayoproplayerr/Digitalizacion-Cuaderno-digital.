@@ -72,6 +72,7 @@ Originalidad: que el diseño sea propio y creativo.
 Propiedad intelectual: si utilizas elementos descargados de Internet, debes indicar en un documento su enlace, autor y licencia Creative Commons (si la tiene).
 
 
+<img width="4157" height="7710" alt="cartelTallerRobótica" src="https://github.com/user-attachments/assets/7e07187b-41c5-4409-96e1-fcd7d7f99c0e" />
 
 
 
