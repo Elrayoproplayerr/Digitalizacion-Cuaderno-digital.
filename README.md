@@ -75,16 +75,25 @@ Propiedad intelectual: si utilizas elementos descargados de Internet, debes indi
 <img width="4157" height="7710" alt="cartelTallerRobótica" src="https://github.com/user-attachments/assets/7e07187b-41c5-4409-96e1-fcd7d7f99c0e" />
 
 
+# INSKAPE.
+Hay que realizar dos prácticas de diseño vectorial:
+
+1. Oso panda: Modificar la imagen del panda y convertirla en una ilustración vectorial, siguiendo como referencia el estilo de la imagen «oso2».
+
+2. Escudo de Batman: Utilizar la imagen del escudo como fondo y dibujar encima su silueta vectorial en color azul oscuro.
 
 
 
 
+<img width="1600" height="1059" alt="imagen" src="https://github.com/user-attachments/assets/d24155ea-5f3d-457e-8da2-b84f779a0e5c" />
 
 
 
+<img width="1280" height="846" alt="imagen" src="https://github.com/user-attachments/assets/878015d6-71db-4028-9562-67fe240909b8" />
 
+<img width="780" height="380" alt="imagen" src="https://github.com/user-attachments/assets/f074403e-b24b-4640-be90-2defe392dcfe" />
 
-
+<img width="1920" height="935" alt="imagen" src="https://github.com/user-attachments/assets/5242b96e-9937-43b2-9f5e-1508eaf79273" />
 
 
 
