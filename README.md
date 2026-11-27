@@ -96,6 +96,7 @@ Hay que realizar dos prácticas de diseño vectorial:
 <img width="1920" height="935" alt="imagen" src="https://github.com/user-attachments/assets/5242b96e-9937-43b2-9f5e-1508eaf79273" />
 
 
+# Vectorización.
 
 
 
